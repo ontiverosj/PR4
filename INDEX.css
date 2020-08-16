@@ -1,0 +1,70 @@
+.border1 { 
+    border: solid;
+    border-width: 5px 5px 5px 5px;
+    
+
+ }
+
+.div{ 
+    color:black;
+    text-align: center;
+    line-height:1px ;
+    padding: 1px;
+    border: solid;
+    border-width: 5px 0px 0px 0px;
+    background-color: red;
+   border-radius: 50px 50px 0px 0px ;
+    
+    
+    
+}
+
+.hello {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:white;
+    
+    
+    
+   
+    
+    
+    
+    
+}
+
+.mynameis {
+    color:white; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding: 10px;
+   font-style:bold;
+   
+}
+   
+
+
+.jake {
+    text-align: center;
+    font-size: 100px;
+    border: solid;
+    border-width: 0px 0px 0px 0px;
+    
+    
+    
+
+}
+
+.bottom { 
+    border: solid;
+    border-color: red;
+    border-width: 20px;
+    border-radius: 0px 0px 50px 50px;
+    
+   
+    
+    
+}
+
+
+
